@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#main-article { background-color: #102C57; min-width: 960px; height: 100%; }
+
+
+#search-section { width: 960px; min-width: 960px; margin: 0 auto; padding-top: 45px; display: flex; justify-content: center; }
+#select-area { background-color: #FFFFFF; padding: 19.5px 20px; border-radius: 5px 0 0 5px; border-left: 2px solid #1679AB; border-top: 2px solid #1679AB; border-bottom: 2px solid #1679AB; border-right: none; }
+#search-champ { width: 650px; padding: 20px 40px; background-color: #FFFFFF; border-radius: 0 5px 5px 0; border-right: 2px solid #1679AB; border-top: 2px solid #1679AB; border-bottom: 2px solid #1679AB; border-left: none; }
+
+
+#ratate-champ-section { margin: 0 auto; width: 960px; margin-top: 50px; }
+#ratate-section-title { padding: 10px 15px; color: #FFFFFF }
+.rotate-champ-wrapper { margin-top: 15px; border-radius: 20px; display: flex; }
+.rotate-img-frame { width: 175px; overflow: hidden; border-radius: 15px 0 0 15px; }
+img { transform:scale(1.1); width: 175px; height: 100%; }
+.test-box { width: 300px; border-radius: 0 15px 15px 0; background-color: rgba(0, 0, 0, 0.25); padding: 30px 40px; }
+.test-box > span { font-weight: 200; font-size: 18pt; color: #FFFFFF; }
